@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Breed>German Giant</Breed>
+    <Country_of_Origin>Germany</Country_of_Origin>
+    <Weight_Kg>6-11</Weight_Kg>
+    <Color>Gray</Color>
+    <Price_CHF>120</Price_CHF>
+  </row>
+  <row>
+    <Breed>Dutch Rabbit</Breed>
+    <Country_of_Origin>Netherlands</Country_of_Origin>
+    <Weight_Kg>2-2.5</Weight_Kg>
+    <Color>Black-White</Color>
+    <Price_CHF>80</Price_CHF>
+  </row>
+  <row>
+    <Breed>Rex</Breed>
+    <Country_of_Origin>France</Country_of_Origin>
+    <Weight_Kg>3-4.5</Weight_Kg>
+    <Color>Chestnut</Color>
+    <Price_CHF>100</Price_CHF>
+  </row>
+  <row>
+    <Breed>Dwarf Rabbit</Breed>
+    <Country_of_Origin>Worldwide</Country_of_Origin>
+    <Weight_Kg>1-1.5</Weight_Kg>
+    <Color>White</Color>
+    <Price_CHF>60</Price_CHF>
+  </row>
+</data>
